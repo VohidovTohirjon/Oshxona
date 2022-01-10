@@ -1,0 +1,79 @@
+[
+  {
+    "Id": "cccde4b4-12af-4d33-8362-4ff2c14c0b4d",
+    "FoodName": "Impressive",
+    "Costage": 30000.0,
+    "Count": 170,
+    "Location": "EVOs",
+    "Login": "ajoyib",
+    "Password": "123212545",
+    "TypeFood": 0,
+    "Frequent": 1
+  },
+  {
+    "Id": "31a6fdfc-1742-4905-992e-95917c5c7259",
+    "FoodName": "Hotsendvich",
+    "Costage": 29000.0,
+    "Count": 12,
+    "Location": "Street 77",
+    "Login": ".netuz",
+    "Password": "12341421235",
+    "TypeFood": 2,
+    "Frequent": 1
+  },
+  {
+    "Id": "10259271-e1b4-4b89-a895-102b53a7f4e8",
+    "FoodName": "Coldsendvich",
+    "Costage": 20000.0,
+    "Count": 17,
+    "Location": "Loook",
+    "Login": "dotneteng",
+    "Password": "12345987",
+    "TypeFood": 1,
+    "Frequent": 1
+  },
+  {
+    "Id": "f3922229-dab7-43c8-b411-34ecd938baa6",
+    "FoodName": "Clubburger",
+    "Costage": 25000.0,
+    "Count": 12,
+    "Location": "Oqsaroy",
+    "Login": "dotnetru",
+    "Password": "12345678",
+    "TypeFood": 2,
+    "Frequent": 1
+  },
+  {
+    "Id": "78a73136-449b-46d7-87be-7d466ab9bd49",
+    "FoodName": "Millenium",
+    "Costage": 12650.0,
+    "Count": 3,
+    "Location": "Milkyway",
+    "Login": "Tadjikistan",
+    "Password": "34523423",
+    "TypeFood": 1,
+    "Frequent": 1
+  },
+  {
+    "Id": "4b05770e-6ee5-4d41-b5b9-5a935001031e",
+    "FoodName": "Wrwerwerw",
+    "Costage": 32000.0,
+    "Count": 12,
+    "Location": "Oqtepa",
+    "Login": "Almaty",
+    "Password": "3241312312",
+    "TypeFood": 1,
+    "Frequent": 1
+  },
+  {
+    "Id": "cccde4b4-12af-4d33-8362-4ff2c14c0b4d",
+    "FoodName": "Paxlava",
+    "Costage": 23500.0,
+    "Count": 22,
+    "Location": "QozonKabob",
+    "Login": "Skolkovo",
+    "Password": "249",
+    "TypeFood": 0,
+    "Frequent": 1
+  }
+]

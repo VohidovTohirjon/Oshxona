@@ -1,0 +1,9 @@
+/home/owner/RiderProjects/OshXona/OshXona/obj/Debug/OshXona.csprojAssemblyReference.cache
+/home/owner/RiderProjects/OshXona/OshXona/obj/Debug/OshXona.csproj.CoreCompileInputs.cache
+/home/owner/RiderProjects/OshXona/OshXona/bin/Debug/OshXona.exe
+/home/owner/RiderProjects/OshXona/OshXona/bin/Debug/OshXona.pdb
+/home/owner/RiderProjects/OshXona/OshXona/bin/Debug/Newtonsoft.Json.dll
+/home/owner/RiderProjects/OshXona/OshXona/bin/Debug/Newtonsoft.Json.xml
+/home/owner/RiderProjects/OshXona/OshXona/obj/Debug/OshXona.csproj.CopyComplete
+/home/owner/RiderProjects/OshXona/OshXona/obj/Debug/OshXona.exe
+/home/owner/RiderProjects/OshXona/OshXona/obj/Debug/OshXona.pdb
